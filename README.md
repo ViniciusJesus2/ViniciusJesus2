@@ -115,7 +115,7 @@ Me chamo Vinícius Silva de Jesus, tenho 21 anos e sou natural de São Paulo. At
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="170" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusJesus2&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
